@@ -1,0 +1,6 @@
+Flask
+gspread
+oauth2client
+PyOpenSSL
+pycrypto
+httplib2
